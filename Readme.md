@@ -1,10 +1,10 @@
 # Simple Digit Recognizer (5x5 Grid)
 
 ## Student Details
-- Name: Mohit Pratap Singh 
-- Registration Number: 25BAI10639
+- Name: Navya Vyas
+- Registration Number: 25BAI10566
 - Branch: B.Tech Computer Science & Engineering (Artificial Intelligence & Machine Learning)
-- Year: First Year (2025-2029)
+- Semester: Winter Semester (2025-2026)
 
 ## About the Project
 This is a simple Python program that recognizes digits drawn on a 5×5 grid. The user enters values (0s and 1s) to form a digit, and the system compares it with predefined patterns to guess which digit it is.
